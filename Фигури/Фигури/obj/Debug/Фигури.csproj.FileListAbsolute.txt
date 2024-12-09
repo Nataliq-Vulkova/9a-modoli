@@ -1,0 +1,7 @@
+C:\Users\1409-12\Desktop\Наталия 9а\Фигури\Фигури\bin\Debug\Фигури.exe.config
+C:\Users\1409-12\Desktop\Наталия 9а\Фигури\Фигури\bin\Debug\Фигури.exe
+C:\Users\1409-12\Desktop\Наталия 9а\Фигури\Фигури\bin\Debug\Фигури.pdb
+C:\Users\1409-12\Desktop\Наталия 9а\Фигури\Фигури\obj\Debug\Фигури.csproj.AssemblyReference.cache
+C:\Users\1409-12\Desktop\Наталия 9а\Фигури\Фигури\obj\Debug\Фигури.csproj.CoreCompileInputs.cache
+C:\Users\1409-12\Desktop\Наталия 9а\Фигури\Фигури\obj\Debug\Фигури.exe
+C:\Users\1409-12\Desktop\Наталия 9а\Фигури\Фигури\obj\Debug\Фигури.pdb

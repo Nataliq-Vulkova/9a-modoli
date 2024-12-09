@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Фигури", "Фигури\Фигури.csproj", "{2CE7CBE4-1039-4134-A4A8-832741216264}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "koledna elxa", "..\koledna elxa\koledna elxa.csproj", "{639F2971-91FC-4C33-B273-54F604F9CB58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CE7CBE4-1039-4134-A4A8-832741216264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CE7CBE4-1039-4134-A4A8-832741216264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CE7CBE4-1039-4134-A4A8-832741216264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CE7CBE4-1039-4134-A4A8-832741216264}.Release|Any CPU.Build.0 = Release|Any CPU
+		{639F2971-91FC-4C33-B273-54F604F9CB58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{639F2971-91FC-4C33-B273-54F604F9CB58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{639F2971-91FC-4C33-B273-54F604F9CB58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{639F2971-91FC-4C33-B273-54F604F9CB58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAB53B62-FE1A-40D1-B3C9-672213C77B30}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\1409-12\Desktop\Наталия 9а\Числа\Числа\bin\Debug\Числа.exe.config
+C:\Users\1409-12\Desktop\Наталия 9а\Числа\Числа\bin\Debug\Числа.exe
+C:\Users\1409-12\Desktop\Наталия 9а\Числа\Числа\bin\Debug\Числа.pdb
+C:\Users\1409-12\Desktop\Наталия 9а\Числа\Числа\obj\Debug\Числа.csproj.AssemblyReference.cache
+C:\Users\1409-12\Desktop\Наталия 9а\Числа\Числа\obj\Debug\Числа.csproj.CoreCompileInputs.cache
+C:\Users\1409-12\Desktop\Наталия 9а\Числа\Числа\obj\Debug\Числа.exe
+C:\Users\1409-12\Desktop\Наталия 9а\Числа\Числа\obj\Debug\Числа.pdb
